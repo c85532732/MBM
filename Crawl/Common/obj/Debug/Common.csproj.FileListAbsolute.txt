@@ -1,0 +1,7 @@
+E:\jack\crawl\Crawl\Common\bin\Debug\Common.dll
+E:\jack\crawl\Crawl\Common\bin\Debug\Newtonsoft.Json.Compact.dll
+E:\jack\crawl\Crawl\Common\bin\Debug\Newtonsoft.Json.dll
+E:\jack\crawl\Crawl\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\jack\crawl\Crawl\Common\obj\Debug\Common.dll
+E:\jack\crawl\Crawl\Common\obj\Debug\Common.pdb
+E:\jack\crawl\Crawl\Common\bin\Debug\Common.pdb

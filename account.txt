@@ -1,0 +1,50 @@
+火车头
+name:yb2017
+pwd:yorkg@123
+================================
+eztube server
+119.28.89.199
+administrator
+Yorkg@123++ez
+
+===============================
+约克管家 
+Yorkbbs@#2017
+怡情楼
+
+====================================================
+http://www.tdyun.com/
+chris0201
+wjj19880201
+
+http://chris0201.hktd32t.my03w.com/index.aspx
+FTP地址：ftp.hktd32t.99aiji.net
+用户名：chris0201
+密　码：1AIJ5SA83NUS
+
+
+3702f723.123nat.com:333
+username:chris
+password:abcd1234
+
+
+===============================
+db server :47.254.17.212
+ 
+web server1
+public:47.254.17.174
+private:172.20.95.39
+
+web server2:
+public:47.88.63.73
+private:172.20.95.40
+
+账号：Administrator
+密码：Yorkg@123
+
+
+上海云支付服务器
+118.89.179.30 
+user1 
+Yorkg@123
+

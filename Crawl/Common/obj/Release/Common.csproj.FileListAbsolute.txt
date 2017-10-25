@@ -1,0 +1,8 @@
+E:\jack\crawl\Crawl\Common\bin\Release\Common.dll
+E:\jack\crawl\Crawl\Common\bin\Release\Common.pdb
+E:\jack\crawl\Crawl\Common\bin\Release\Newtonsoft.Json.Compact.dll
+E:\jack\crawl\Crawl\Common\bin\Release\Newtonsoft.Json.dll
+E:\jack\crawl\Crawl\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+E:\jack\crawl\Crawl\Common\obj\Release\Common.dll
+E:\jack\crawl\Crawl\Common\obj\Release\Common.pdb
+E:\jack\crawl\Crawl\Common\obj\Release\Common.csprojResolveAssemblyReference.cache

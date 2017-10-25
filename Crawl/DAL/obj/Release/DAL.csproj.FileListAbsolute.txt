@@ -1,0 +1,14 @@
+E:\jack\crawl\Crawl\DAL\bin\Release\DAL.dll
+E:\jack\crawl\Crawl\DAL\bin\Release\DAL.pdb
+E:\jack\crawl\Crawl\DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+E:\jack\crawl\Crawl\DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\jack\crawl\Crawl\DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\jack\crawl\Crawl\DAL\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\jack\crawl\Crawl\DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\jack\crawl\Crawl\DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\jack\crawl\Crawl\DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\jack\crawl\Crawl\DAL\bin\Release\Microsoft.Practices.ObjectBuilder.xml
+E:\jack\crawl\Crawl\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+E:\jack\crawl\Crawl\DAL\obj\Release\DAL.dll
+E:\jack\crawl\Crawl\DAL\obj\Release\DAL.pdb
+E:\jack\crawl\Crawl\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache

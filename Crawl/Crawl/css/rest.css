@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* ------------------------------------------------------------
+version :   1.0
+ author :   tongqian.zhang
+  email :   bbirdsky@163.com
+  create:   2013-05-10
+------------------------------------------------------------ */
+table,td,tr,thead,tbody,form,body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, pre,
+dl, dt, dd, ul, ol, li, th, td, div, span, img,
+fieldset, lengend, button, input, select, textarea {
+    margin: 0;
+    padding: 0;
+	border:0;
+}
+
+/* color & background */
+html {
+    color: #eeeeee;
+}
+
+
+
+/* font */
+body, button, input, select, textarea {
+    /* for ie */
+    font: 12px/18px Arial, Verdana, Microsoft YaHei;
+}
+
+form{ border:none;}
+
+/* fix center */
+html, body {
+    height: 100%;
+	width:100%;
+    margin: 0 auto;
+}
+
+/* h1~h6 */
+h1 {
+    font-size: 0.18rem;
+}
+
+h2 {
+    font-size: 0.16rem;
+}
+
+h3 {
+    font-size:0.14rem;
+}
+
+h4, h5, h6 {
+    font-size: 100%;
+}
+
+/* a */
+a {
+	overflow:hidden;
+	display:inline-block;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration:none;
+}
+
+/* list */
+ul, ol {
+    list-style: none;
+}
+
+/* img border */
+ img {
+    border: 0
+}
+
+
+/* margin */
+.alpha {
+    margin-left: 0;
+}
+
+.omega {
+    margin-right: 0;
+}
+
+/* float & clear */
+
+
+.clear {
+    clear: both;
+    display: block;
+}
+
+/*= 清除浮动=*/
+.clear{clear: both; height:0px; line-height:0px; font-size:0px; overflow:hidden}
+.clearfix:after { content: ""; display: block; height: 0px;  clear: both; visibility: hidden; font-size:0px;}
+/* Hides from IE-mac \*/
+* html .clearfix {height: 0%;}
+/* End hide from IE-mac */
+*+html .clearfix {min-height: 0%;}
+
+/*解决IE6背景缓存*/
+*html{zoom:expression(function(ele){ele.style.zoom = "1";document.execCommand("BackgroundImageCache",false,true)}(this))}
+
+/* End hide from IE-mac */
+
+
+/* 针对IE7 */
+* + html .clearfix {
+    min-height:0%;
+}
+
